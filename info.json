@@ -1,0 +1,14 @@
+{
+    "name": "angelsaddons-cab-locales",
+    "version": "1.0.1",
+    "factorio_version": "0.17",
+    "title": "Locales for Angel's Addons - C.A.B.",
+    "author": "n0throw",
+    "contact": "",
+    "homepage": "",
+    "description": "Locales for Angel's Addons - C.A.B.",
+    "dependencies": [
+       "base >= 0.17.0",
+       "angelsaddons-cab = 0.1.1"
+    ]
+  }
